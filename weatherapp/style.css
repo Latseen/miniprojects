@@ -21,9 +21,11 @@ body {
     width: 450px;
 }
 
+/* Makes the weather card grow when hovered 
 .weather-card:hover {
     transform: scale(1.05);
 }
+*/
 
 #city-input {
     padding: 15px;
