@@ -1,84 +1,94 @@
-/* Google Font */
+/* Import Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
     font-family: 'Poppins', sans-serif;
 }
 
 /* Navbar */
 .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 20px;
-    background: #2c3e50;
-    color: white;
+    background: rgba(44, 62, 80, 0.9); /* Semi-transparent background */
+    padding: 15px 0;
+    transition: all 0.3s ease-in-out;
 }
 
-.nav-links {
-    list-style: none;
-    display: flex;
-}
-
-.nav-links li {
-    margin: 0 15px;
-}
-
-.nav-links a {
-    text-decoration: none;
-    color: white;
-    font-weight: 600;
-}
-
-.logo {
-    font-size: 1.5em;
+.navbar-brand {
+    font-size: 1.8em;
     font-weight: 700;
+    color: white !important;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+    font-size: 1.1em;
+    transition: color 0.3s ease;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #1abc9c !important;
 }
 
 /* Hero Section */
 .hero {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 80vh;
-    background: linear-gradient(to right, #1c92d2, #f2fcfe);
+    background: url('https://source.unsplash.com/1600x900/?technology,nature') center/cover no-repeat;
+    color: white;
     text-align: center;
-    color: #333;
-    padding: 20px;
+    padding: 150px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    position: relative;
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
 }
 
 .hero-content {
+    position: relative;
     max-width: 600px;
+    z-index: 1;
 }
 
 .hero h1 {
-    font-size: 2.5em;
-    margin-bottom: 10px;
+    font-size: 3em;
+    font-weight: 700;
 }
 
 .hero p {
-    font-size: 1.2em;
+    font-size: 1.3em;
     margin-bottom: 20px;
 }
 
-.btn {
-    display: inline-block;
-    padding: 10px 20px;
-    background: #1c92d2;
+.btn-custom {
+    background: #1abc9c;
     color: white;
+    padding: 12px 25px;
+    border-radius: 50px;
     text-decoration: none;
-    border-radius: 5px;
+    font-size: 1.2em;
     font-weight: 600;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+    background: #16a085;
+    transform: scale(1.05);
 }
 
 /* Footer */
 .footer {
     text-align: center;
-    padding: 15px;
+    padding: 20px;
     background: #2c3e50;
     color: white;
     margin-top: 20px;
+    font-size: 1em;
 }
