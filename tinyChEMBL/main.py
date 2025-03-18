@@ -12,14 +12,17 @@ dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
 class GNN(torch.nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels):
         super(GNN, self).__init__()
-        self.conv1 = GCNConv(in_channels, hidden_channels)
+        self.conv1 = GCNConv(in_channels, hidden_channels) # Hidden layer 1
         self.conv2 = GCNConv(hidden_channels, hidden_channels)
         self.fc = torch.nn.Linear(hidden_channels, out_channels)
     
     def forward(self, data):
-        x, edge_index, batch = data.x.float(), data.edge_index, data.batch  # ✅ Ensure x is float
-        x = F.relu(self.conv1(x, edge_index))
+        x, edge_index, batch = data.x.float(), data.edge_index, data.batch  # Ensure x is float
+        
+        # Activation function (introduces non-linearity in the model)
+        x = F.relu(self.conv1(x, edge_index)) 
         x = F.relu(self.conv2(x, edge_index))
+        
         x = global_mean_pool(x, batch)
         return self.fc(x)
 
@@ -35,7 +38,7 @@ def train():
     for epoch in range(10):  # Train for 10 epochs
         total_loss = 0
         for batch in dataloader:
-            batch.x = batch.x.float()  # ✅ Convert to float
+            batch.x = batch.x.float()  # Convert to float
             optimizer.zero_grad()
             output = model(batch)
             loss = loss_fn(output.squeeze(), batch.y)
@@ -43,6 +46,5 @@ def train():
             optimizer.step()
             total_loss += loss.item()
         print(f"Epoch {epoch+1}, Loss: {total_loss / len(dataloader)}")
-
 
 train()
