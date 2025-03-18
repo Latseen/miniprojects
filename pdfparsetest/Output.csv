@@ -1,0 +1,601 @@
+Analysis,Method,Result,Unit
+Sodium,AFVAN-SLMF-0022 (ICP-MS),472,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),497.0,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),482,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),94,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),174,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),31,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),<0.01,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.33,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.04,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),1.7,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),94.8,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.6,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),1406,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),395.6,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),2921,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),174,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),700,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),10,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.06,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),3.56,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.08,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),112.7,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),96.4,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,1.4,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),618,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),303.6,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),1320,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),165,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),629,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),39,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.12,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),1.90,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.05,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),13.2,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),95.2,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.7,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),171,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),52.6,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),789,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),180,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),64,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),2,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),22,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.34,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.07,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),3.8,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),95.4,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.3,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),395,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),154.3,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),416,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),112,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),328,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),47,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.04,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.30,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.05,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),2.7,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),94.8,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.7,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),639,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),261.6,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),816,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),82,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),166,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),2,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),19,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.22,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),5.3,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),94.0,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.8,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),373,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),429.1,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),457,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),79,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),109,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),29,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),<0.01,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.26,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),2.4,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),94.6,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),0.5,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.5,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),568,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),292.7,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),1157,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),116,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),402,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),6,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.07,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),2.21,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),34.5,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),95.6,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),0.2,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.7,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),479,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),254.5,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),1279,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),136,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),479,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),16,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.08,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),1.67,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),8.1,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),96.1,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),0.2,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.1,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),55,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),35.4,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),261,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),124,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),67,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),<1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),19,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.02,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.21,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.05,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),3.3,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),96.4,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.5,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),402,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),146.1,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),465,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),108,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),61,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),1,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),13,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.05,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.33,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.02,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),1.3,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),95.2,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),0.2,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.4,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Sodium,AFVAN-SLMF-0022 (ICP-MS),766,ppm
+Magnesium,AFVAN-SLMF-0022 (ICP-MS),235.1,ppm
+Potassium,AFVAN-SLMF-0022 (ICP-MS),950,ppm
+Phosphorous,AFVAN-SLMF-0022 (ICP-MS),114,ppm
+Calcium,AFVAN-SLMF-0022 (ICP-MS),133,ppm
+Zinc,AFVAN-SLMF-0022 (ICP-MS),2,ppm
+Iron,AFVAN-SLMF-0022 (ICP-MS),13,ppm
+Cadmium,AFVAN-SLMF-0022 (ICP-MS),0.03,ppm
+Arsenic,AFVAN-SLMF-0022 (ICP-MS),0.30,ppm
+Mercury,AFVAN-SLMF-0022 (ICP-MS),<0.05,ppm
+Lead,AFVAN-SLMF-0022 (ICP-MS),0.02,ppm
+Strontium,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Sulfur,AFVAN-SLMF-0022 (ICP-MS),---,ppm
+Iodine,AFVAN-SLMF-0022 (ICP-MS),3.4,ppm
+Moisture content,AFVAN-SLMF-0012 (AOAC 935.29),96.1,%
+Fat content,AFVAN-PTM-0079 (AOAC 954.02),---,%
+Crude protein content (Nx6.25) (as received),AFVAN-SLMF-0014,---,%
+Crude ash content,AFVAN-SLMF-0005,0.8,%
+Carbohydrates content,AFVAN-SOP-0013 & 0014,---,%
+Energy,AFVAN-SOP-0013 & 0014,---,Cal/100g
+Energy,AFVAN-SOP-0013 & 0014,---,kJ/100g
+Cystine,AOAC 994.12,---,%
+Methionine,AOAC 994.12,---,%
+Tryptophan,AOAC 994.12,---,%
+Alanine,AOAC 994.12,---,%
+Arginine,AOAC 994.12,---,%
+Aspartic Acid,AOAC 994.12,---,%
+Glutamic Acid,AOAC 994.12,---,%
+Glycine,AOAC 994.12,---,%
+Histidine,AOAC 994.12,---,%
+Isoleucine,AOAC 994.12,---,%
+Leucine,AOAC 994.12,---,%
+Lysine,AOAC 994.12,---,%
+Phenylalanine,AOAC 994.12,---,%
+Proline,AOAC 994.12,---,%
+Serine,AOAC 994.12,---,%
+Threonine,AOAC 994.12,---,%
+Tyrosine,AOAC 994.12,---,%
+Valine,AOAC 994.12,---,%
+Aspartic Acid+Asparagine,AOAC 994.12,---,%
+Glutamic Acid+Glutamine,AOAC 994.12,---,%
+Fructose,AFVAN-SLMF-0018,---,g/100g
+Glucose,AFVAN-SLMF-0018,---,g/100g
+Sucrose,AFVAN-SLMF-0018,---,g/100g
+Maltose,AFVAN-SLMF-0018,---,g/100g
+Lactose,AFVAN-SLMF-0018,---,g/100g
+Total Sugar,AFVAN-SLMF-0018,---,g/100g
+Total dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Insoluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
+Soluble dietary fibre (as received),AFVAN-SLMF-0017,---,%
